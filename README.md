@@ -1,0 +1,2 @@
+# latihan-github
+untuk latihan 
